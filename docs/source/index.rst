@@ -5,6 +5,7 @@ Welcome to Lumache's documentation!
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://github.com/floatingCatty/DeePTB-doc/>`_
 and offers a *simple* and *intuitive* API.
+Test the pull request trigger for doc compile.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
